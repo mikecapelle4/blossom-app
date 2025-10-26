@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/blossom-app/static/css/main.2716455f.css",
+    "main.js": "/blossom-app/static/js/main.31815e4f.js",
+    "static/media/image2.jpg": "/blossom-app/static/media/image2.4bd2434bb4c2e879cb97.jpg",
+    "static/media/shop-front.jpg": "/blossom-app/static/media/shop-front.66d0fc3feb4f2a72e280.jpg",
+    "static/media/image3.jpg": "/blossom-app/static/media/image3.7a3b1134f0233d908e55.jpg",
+    "static/media/logo.png": "/blossom-app/static/media/logo.62464b9b8ebd1f1dbeaf.png",
+    "static/media/image1.jpg": "/blossom-app/static/media/image1.8ce9746aa9542bb18783.jpg",
+    "static/media/image6.jpg": "/blossom-app/static/media/image6.10240450c9ba820dd1bb.jpg",
+    "static/media/image4.jpg": "/blossom-app/static/media/image4.c5a5421602c7ea27b94b.jpg",
+    "static/media/image5.jpg": "/blossom-app/static/media/image5.1868a607f3a1c8e8ebaa.jpg",
+    "index.html": "/blossom-app/index.html",
+    "main.2716455f.css.map": "/blossom-app/static/css/main.2716455f.css.map",
+    "main.31815e4f.js.map": "/blossom-app/static/js/main.31815e4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2716455f.css",
+    "static/js/main.31815e4f.js"
+  ]
+}
